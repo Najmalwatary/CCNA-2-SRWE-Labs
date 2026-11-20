@@ -68,7 +68,7 @@ All tests passed successfully in Cisco Packet Tracer.
 
 ## Project Files
 - `Basic-Switch-Configuration.pkt` — Cisco Packet Tracer project file.
-- `topology.png` — Network topology screenshot.
+- `Network-Topology.png` — Network topology screenshot.
 - `README.md` — Project documentation.
 
 ## Tools & Technologies
