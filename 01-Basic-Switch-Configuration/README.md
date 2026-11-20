@@ -20,7 +20,7 @@ The lab consists of:
 - One PC (PC-A).
 - Ethernet and console connections.
 
-![Network Topology](Network Topology.png)
+![Network Topology](Network-Topology.png)
 
 ## IP Addressing
 
